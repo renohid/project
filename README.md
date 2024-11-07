@@ -8,11 +8,7 @@ Bachelor, System Information
 
 ### Working Experience
 Network Engineer for preventive network services in Telkom Akses Malang
-
-• Responsible for network devices (such as GPON, MSAN) installation, testing, and maintenance.
-
-• Perform network devices to preventive and anomalies that have the potential to be down services.
-
-• Report the result maintenance activity for update information network devices.
-
-• Monitoring dashbord all devices in Malang area.
+- Managed installation, testing, and maintenance of network devices, developing a keen eye for detail in data collection and analysis.
+- Implemented proactive measures to ensure service continuity, leveraging data-driven insights to identify potential anomalies and preemptively address them.
+- Regularly reported maintenance activities, demonstrating proficiency in data management and documentation to ensure accurate and up-to-date network device information.
+- Utilized monitoring dashboards to track performance metrics and analyze network data, to optimize network efficiency.
