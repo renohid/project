@@ -15,5 +15,3 @@ This repo includes:
 ```bash
 npm install
 npx playwright test
-
-![CI](https://github.com/renohid/project/actions/workflows/playwright.yml/badge.svg)
