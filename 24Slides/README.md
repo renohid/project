@@ -4,6 +4,12 @@
 
 This repo contains test cases for verifying login and download functionality on [24Slides Templates](https://24slides.com/templates/featured).
 
+## 📋 Test Plan Document
+
+You can view the detailed test strategy, test cases, and automation notes in this Google Sheet:
+
+🔗 [QA Engineer Test Plan - Google Sheet](https://docs.google.com/spreadsheets/d/1SP7hqL_iFYXuekjCVrM8MuXySnUPR17Dir-U_AiMk5M/edit?usp=sharing)
+
 ---
 
 ## 🔍 Test Scope
