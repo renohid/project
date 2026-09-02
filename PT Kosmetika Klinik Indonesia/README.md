@@ -1,6 +1,4 @@
-# Technical Test - PT Kosmetika Klinik Indonesia
-
-# Technical Test - Business Analysis & Data Migration (Q4 2022)
+# Business Analysis & Data Migration (Q4 2022)
 
 Repositori ini berisi rangkaian kode SQL, hasil analisis bisnis, *dashboard* visualisasi, serta skrip migrasi data pasien untuk studi kasus performa klinik pada Kuartal 4 (Q4) Tahun 2022.
 
