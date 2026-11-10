@@ -5,15 +5,15 @@ This project performs an end-to-end customer churn analysis on the public Olist 
 
 ## 🛠 Tech Stack
 * **Database:** PostgreSQL (pgAdmin 4)
-* **Language:** Python 3 (Jupyter Notebooks)[span_0](start_span)[span_0](end_span)
-* **Libraries:** pandas, scikit-learn, xgboost, matplotlib, seaborn[span_1](start_span)[span_1](end_span)
-* **Machine Learning:** Random Forest, XGBoost, RandomizedSearchCV[span_2](start_span)[span_2](end_span)
+* **Language:** Python 3 (Jupyter Notebooks).
+* **Libraries:** pandas, scikit-learn, xgboost, matplotlib, seaborn.
+* **Machine Learning:** Random Forest, XGBoost, RandomizedSearchCV.
 
 ## 🚀 Project Architecture & Workflow
 
 ### 1. Data Engineering & SQL Feature Engineering
-* Processed over 100,000 raw e-commerce records into a structured relational database[span_3](start_span)[span_3](end_span).
-* Wrote complex Common Table Expressions (CTEs) and joins in SQL to aggregate customer behavior into **RFM metrics** (Recency, Frequency, Monetary)[span_4](start_span)[span_4](end_span).
+* Processed over 100,000 raw e-commerce records into a structured relational database.
+* Wrote complex Common Table Expressions (CTEs) and joins in SQL to aggregate customer behavior into **RFM metrics** (Recency, Frequency, Monetary).
 * Defined the target variable (`is_churned`) as any customer with no purchases in the last >180 days.
 
 ### 2. Exploratory Data Analysis & Handling Data Leakage
